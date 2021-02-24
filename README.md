@@ -1,6 +1,8 @@
 # NimGame_Project1
 This project will be devided into three parts. If you want to go to part2 and part3, here is the link below.
+
 [Go to Project 2](https://github.com/ZavierYang/NimGame_project2)
+
 [Go to Project 3](https://github.com/ZavierYang/NimGame_project3)
 
 ## Game of Strategy
