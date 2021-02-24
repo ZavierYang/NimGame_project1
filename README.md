@@ -1,4 +1,8 @@
 # NimGame_Project1
+This project will be devided into three parts. If you want to go to part2 and part3, here is the link below.
+[Go to Project 2](https://github.com/ZavierYang/NimGame_project2)
+[Go to Project 3](https://github.com/ZavierYang/NimGame_project3)
+
 ## Game of Strategy
 This project is the first in a series of three, with the ultimate objective of designing and implementing a simple variant of the game of Nim in Java. Nim is a two-player game, and the rules of the version used here are as follows:
 1. The game begins with a number of objects (e.g., stones placed on a table).
