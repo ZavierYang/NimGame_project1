@@ -8,7 +8,7 @@ This project is the first in a series of three, with the ultimate objective of d
 5. Both the initial number of stones, and the upper bound on the number that can be removed, can be varied from game to game, and must be chosen before a game commences.
 
 ## Aim of Project1: Implement Nim’s Basic Game Mechanics
-For this first project, the focus will be on creating two players and playing for multiple games:
+For this first project, the focus will be on creating two players and playing for multiple games by using basic jAVA concept. Therefore, there are no too much things to do.
 1. Your program will begin by displaying a welcome message.
 2. The program will then prompt for a string (no space in the string) to be entered via standard input (the keyboard) - this will be the name of Player 1. You may assume that all inputs to the program will be valid.
 3. The program will then prompt for another string (no space in the string) to be entered - this will be the name of Player 2.
