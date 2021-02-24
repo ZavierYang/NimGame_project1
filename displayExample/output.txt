@@ -1,0 +1,58 @@
+Welcome to Nim
+
+Please enter Player 1's name:
+
+Please enter Player 2's name:
+
+Please enter upper bound of stone removal:
+
+Please enter initial number of stones:
+
+12 stones left: * * * * * * * * * * * *
+Luke's turn - remove how many?
+
+9 stones left: * * * * * * * * *
+Hans's turn - remove how many?
+
+8 stones left: * * * * * * * *
+Luke's turn - remove how many?
+
+7 stones left: * * * * * * *
+Hans's turn - remove how many?
+
+5 stones left: * * * * *
+Luke's turn - remove how many?
+
+2 stones left: * *
+Hans's turn - remove how many?
+
+1 stones left: *
+Luke's turn - remove how many?
+
+Game Over
+Hans wins!
+
+Do you want to play again (Y/N):
+Please enter upper bound of stone removal:
+
+Please enter initial number of stones:
+
+15 stones left: * * * * * * * * * * * * * * *
+Luke's turn - remove how many?
+
+14 stones left: * * * * * * * * * * * * * *
+Hans's turn - remove how many?
+
+12 stones left: * * * * * * * * * * * *
+Luke's turn - remove how many?
+
+9 stones left: * * * * * * * * *
+Hans's turn - remove how many?
+
+5 stones left: * * * * *
+Luke's turn - remove how many?
+
+Game Over
+Hans wins!
+
+Do you want to play again (Y/N):
