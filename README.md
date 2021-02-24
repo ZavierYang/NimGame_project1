@@ -14,8 +14,11 @@ For this first project, the focus will be on creating two players and playing fo
 3. The program will then prompt for another string (no space in the string) to be entered - this will be the name of Player 2.
 4. The program will then prompt for an integer to be entered - this will be the upper bound on the number of stones that can be removed in a single turn.
 5. The program will then prompt for another integer to be entered - this will be the initial number of stones.
-6. The program will then print the number of stones, and will also display the stones, which will be represented by asterisks ‘*’.
+6. The program will then print the number of stones, and will also display the stones, which will be represented by *.
 7. The program will then prompt for another integer to be entered - this time, a number of stones to be removed. Again, you may assume this input will be valid and will not exceed the number of stones remaining or the upper bound on the number of stones that can be removed.
 8. The program should then show an updated display of stones.
 9. The previous two steps should then be repeated until there are no stones remaining. When this occurs, the program should display ‘Game Over’, and the name of the winner.
 10. The program should then ask user whether the players wanted a play again. The user is prompted to enter ‘Y’ for yes or ‘N’ for no. If the user enters ‘Y’, that is, the user wants to play another game, repeat steps 4-10. Otherwise, the program should terminate. Note, any input apart from ’Y’ should terminate the game
+
+## Importance
+This is a project from a programming course (subject). If you came to watch because of your course (subject) assignment, do not just copy and paste this code otherwise your score is possible to be penalised.
