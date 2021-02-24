@@ -1,4 +1,5 @@
 /*********************************************************************
+ *  Author:       Zavier Yang                                        *
  *  Description:  This algorithm is created for Nim game             *
  *                                                                   *
  *  Written:      22/03/2019                                         *
