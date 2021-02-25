@@ -1,5 +1,5 @@
 # Importance
-This is a project from a programming course (subject). If you come to watch because of your course (subject) assignment, do not just copy and paste this code or just modify the variables name otherwise your score is possible to be penalised. Moreover, this project is divided into three parts and is completed with the progress of the course (subject). Therefore, different JAVA concepts will not be implemented in the same part and the difficulty will be different.
+This is a project from a programming course (subject). If you come to watch because of your course (subject) assignment, do not just copy and paste this code or just modify the variables name otherwise your score is possible to be penalised. Moreover, this project is divided into three parts and is completed with the progress of the course (subject). Therefore, different JAVA concepts will not be implemented in the same part, and the difficulty will be different.
 
 # NimGame_Project1
 This project will be devided into three parts. If you want to go to part2 and part3, here is the link below.
