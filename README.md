@@ -5,6 +5,9 @@ This project will be devided into three parts. If you want to go to part2 and pa
 
 [Go to Project 3](https://github.com/ZavierYang/NimGame_project3)
 
+## Importance
+This is a project from a programming course (subject). If you come to watch because of your course (subject) assignment, do not just copy and paste this code or just modify the variables name otherwise your score is possible to be penalised. Moreover, this project is divided into three parts and is completed with the progress of the course (subject). Therefore, different JAVA concepts will not be implemented in the same part and the difficulty will be different.
+
 ## Game of Strategy
 This project is the first in a series of three, with the ultimate objective of designing and implementing a simple variant of the game of Nim in Java. Nim is a two-player game, and the rules of the version used here are as follows:
 1. The game begins with a number of objects (e.g., stones placed on a table).
@@ -25,9 +28,6 @@ For this first project, the focus will be on creating two players and playing fo
 8. The program should then show an updated display of stones.
 9. The previous two steps should then be repeated until there are no stones remaining. When this occurs, the program should display ‘Game Over’, and the name of the winner.
 10. The program should then ask user whether the players wanted a play again. The user is prompted to enter ‘Y’ for yes or ‘N’ for no. If the user enters ‘Y’, that is, the user wants to play another game, repeat steps 4-10. Otherwise, the program should terminate. Note, any input apart from ’Y’ should terminate the game
-
-## Importance
-This is a project from a programming course (subject). If you come to watch because of your course (subject) assignment, do not just copy and paste this code or just modify the variables name otherwise your score is possible to be penalised. Moreover, this project is divided into three parts and is completed with the progress of the course (subject). Therefore, different JAVA concepts will not be implemented in the same part and the difficulty will be different.
 
 ## Source
 University of Melbourne COMP90041 Subject
